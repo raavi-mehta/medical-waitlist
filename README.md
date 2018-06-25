@@ -10,3 +10,4 @@ walk-in clinic waitlist times and overall waitlist efficiency.
 - [P1: User Research](deliverables/project1/project1.md)
 - [P2: Ideation and Lo-fi prototypes](deliverables/project2)
 - [P3: Hi-fi prototypes and heuristic evaluation](deliverables/project3)
+- [P4: Final Report and Presentation](deliverables/project4)
